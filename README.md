@@ -1,2 +1,2 @@
 # odontologo-citas
-es una tarjeta de presentación
+agenda tu cita
